@@ -1,0 +1,157 @@
+body {
+    background-color: #E9ECEF !important;
+    font-family: Arial, Helvetica, sans-serif !important;
+    max-height: max-content!important;
+    min-height: 1000px;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.nav-link:hover {
+    text-decoration: underline;
+    color: white;
+}
+
+.card {
+    background-color: #E9ECEF;
+    border-color: rgb(60, 60, 60);
+    border-width: 2px;
+    height: 100% !important;
+    min-width: 200px;
+}
+
+.d-block {
+    margin: auto;
+    padding: 0%;
+    width: auto;
+    aspect-ratio: 1.7 !important;
+}
+
+/* 
+.d-block img {
+    height: 100%;
+    object-fit: contain;
+} 
+*/
+
+.carousel-control-prev {
+    width: 5% !important;
+    background-color: rgb(170, 170, 170);
+}
+
+.carousel-control-next {
+    width: 5% !important;
+    background-color: rgb(170, 170, 170);
+}
+
+.c-center {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50em;
+}
+
+.c-h1 {
+    color: rgb(60, 60, 60);
+    text-align: center;
+}
+
+.c-h4 {
+    color: rgb(60, 60, 60);
+}
+
+.c-p {
+    text-align: center;
+}
+
+.c-p a {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.c-p a:hover {
+    text-decoration: underline;
+}
+
+.c-btn {
+    display: block;
+    text-align: center;
+    width: auto;
+}
+
+
+.prod {
+    display: block;
+    margin: auto;
+}
+
+.prod-card {
+    background-color: rgb(210, 210, 210);
+    border-color: rgb(60, 60, 60);
+    border-width: 2px;
+}
+
+.prod-pic {
+    text-align: center;
+    border: 1px;
+    background-color: var(prod-card);
+    display: block;
+}
+
+.prod-pic img {
+    width: 100%;
+    object-fit: contain;
+}
+
+.prod-info {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: bolder;
+    height: 100px;
+}
+
+.prod-price {
+    text-align: center;
+    font-size: 14px;
+    margin: auto;
+}
+
+.border-sm {
+    border-style: solid;
+    border-width: medium;
+    border-color: #616161;
+}
+
+.price {
+    text-align: center;
+    font-style: italic;
+    font-size: 18px !important;
+    margin: 0;
+    padding-bottom: 10px;
+}
+
+.price:hover {
+    text-decoration: underline;
+}
+
+.prod-btn {
+    color: #f2f2f2;
+    background-color: #414141;
+    border: none;
+    font-size: 16px;
+}
+
+.prod-btn:hover {
+    color: #414141;
+    background-color: #f5f5f5;
+    font-weight: bolder;
+}
+
+.nav-item :hover {
+    text-decoration: underline;
+}
