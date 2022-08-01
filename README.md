@@ -1,5 +1,5 @@
 
-![MusicShop](music-shop-sıte.jpG)
+![MusicShop](music-shop-sıte.jpg)
 
 Bu repo İçerisinde bir adet README dosyası, dört adet de .html dosyası barındırıyor.
 Sayfa, "Anasayfa" "Hakkımızda" "Ürünlerimiz" "İletişim" sekmelerinden oluşuyor.
